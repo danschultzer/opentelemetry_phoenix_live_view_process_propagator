@@ -1,7 +1,7 @@
 # Opentelemetry Phoenix LiveView Process Propagator
 
-[![Github CI](https://github.com/open-telemetrex/opentelemetry_credo_checks/workflows/CI/badge.svg)](https://github.com/open-telemetrex/opentelemetry_credo_checks/actions?query=workflow%3ACI)
-[![hex.pm](https://img.shields.io/hexpm/v/opentelemetry_credo_checks.svg)](https://hex.pm/packages/opentelemetry_credo_checks)
+[![Github CI](https://github.com/open-telemetrex/opentelemetry_phoenix_live_view_process_propagator/workflows/CI/badge.svg)](https://github.com/open-telemetrex/opentelemetry_phoenix_live_view_process_propagator/actions?query=workflow%3ACI)
+[![hex.pm](https://img.shields.io/hexpm/v/opentelemetry_phoenix_live_view_process_propagator.svg)](https://hex.pm/packages/opentelemetry_phoenix_live_view_process_propagator)
 
 <!-- MDOC !-->
 

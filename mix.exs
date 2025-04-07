@@ -1,7 +1,7 @@
 defmodule OpentelemetryPhoenixLiveViewProcessPropagator.MixProject do
   use Mix.Project
 
-  @source_url "https://github.com/open-telemetrex/opentelemetry_credo_checks"
+  @source_url "https://github.com/open-telemetrex/opentelemetry_phoenix_live_view_process_propagator"
   @version "0.1.0"
 
   def project do
